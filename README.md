@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a vocational high school student<br>In the Software Engineering department
+I am a vocational high school student   <br> majoring in Software Engineering.
 
 
 # 💻 Tech Stack:
