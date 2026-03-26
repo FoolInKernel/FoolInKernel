@@ -7,7 +7,7 @@ I am a vocational high school student   <br> majoring in Software Engineering.
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=FoolInKernel&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FoolInKernel&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoolInKernel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
