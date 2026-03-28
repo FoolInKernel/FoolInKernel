@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+![gif](asset/d15222a5788bb02e89d903f2a423906c.gif)
+
 # 💫 About Me:
 I am a vocational high school student   <br> majoring in Software Engineering.
-
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
