@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![gif](asset/d15222a5788bb02e89d903f2a423906c.gif)
+<img src="asset/d15222a5788bb02e89d903f2a423906c.gif">
 
 # 💫 About Me:
 I am a vocational high school student   <br> majoring in Software Engineering.
