@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img class="gif" src="asset/d15222a5788bb02e89d903f2a423906c.gif">
+<p align="center">
+  <img src="asset/d15222a5788bb02e89d903f2a423906c.gif" width="300">
+</p>
 
 # 💫 About Me:
 I am a vocational high school student   <br> majoring in Software Engineering.
@@ -16,9 +18,3 @@ I am a vocational high school student   <br> majoring in Software Engineering.
 [![](https://visitcount.itsvg.in/api?id=FoolInKernel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<style>
-  .gif {
-    alight-items-center ;
-  }
-</style>
