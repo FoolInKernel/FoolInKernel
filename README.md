@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="asset/d15222a5788bb02e89d903f2a423906c.gif" width="300">
+  <img src="asset/d15222a5788bb02e89d903f2a423906c.gif>
 </p>
 
 # 💫 About Me:
