@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="asset/gif3.gif">
+  <img src="asset/gif.gif">
 </p>
 
 # 💫 About Me:
