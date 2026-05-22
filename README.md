@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="asset/gif.gif">
+  <img src="https://raw.githubusercontent.com/FoolInKernel/FoolInKernel/main/asset/gif.gif">
 </p>
 
 # 💫 About Me:
