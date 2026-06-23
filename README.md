@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FoolInKernel/FoolInKernel/main/asset/gif.gif">
-</p>
-
 # 💫 About Me:
 I am a vocational high school student   <br> majoring in Software Engineering.
 
