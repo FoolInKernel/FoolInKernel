@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a vocational high school student   <br> majoring in Software Engineering.
+I am a vocational high school student   <br> majoring in Software Engineering. <br>
+🐧 Linux enthusiast
 
 
 # 💻 Tech Stack:
